@@ -1,0 +1,1 @@
+export{ default as Car} from "./model-sports-premium-sedan-vector-600w-1097064995-removebg-preview.png"

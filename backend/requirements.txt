@@ -1,0 +1,46 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLO Framework
+ultralytics>=8.0.0
+
+# Image Processing
+opencv-python
+Pillow
+
+# Data Handling
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# YAML Support
+PyYAML
+
+# Progress Bar
+tqdm
+
+# Optional API Deployment
+fastapi
+uvicorn
+
+# Utilities
+requests
+
+quirements · TXT
+Copy
+
+# backend/requirements.txt
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+supabase>=2.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+python-multipart>=0.0.9
+python-jose[cryptography]>=3.3.0
+ultralytics>=8.0.0
+opencv-python>=4.9.0

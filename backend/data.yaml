@@ -1,0 +1,27 @@
+# Dataset Path
+train: Dataset/train/images
+val: Dataset/validation/images
+
+# Number of classes
+nc: 18
+
+# Class Names
+names:
+  - Dent
+  - Scratch
+  - Bumper_dent
+  - Bumper_Damage
+  - Roof_Damage
+  - Mirror_Damage
+  - Windshield_Glass
+  - Headlight_Damage
+  - Taillight_Damage
+  - Wheel_Damage
+  - Wheel_Bent
+  - dent
+  - scratch
+  - crack
+  - glass shatter
+  - lamp broken
+  - tire
+  - flat
